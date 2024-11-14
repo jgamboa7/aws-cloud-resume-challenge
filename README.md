@@ -5,7 +5,7 @@ What is Cloud Resume Challenge? - [The Cloud Resume Challenge](https://cloudresu
 
 ## Architecture
 
-![Architecture Diagram](/images/AWS-Architecture-Cloud-resume-challenge.png)
+![Architecture Diagram](website/images/AWS-Architecture-Cloud-resume-challenge.png)
 
 **Services Used**:
 
